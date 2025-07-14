@@ -1,0 +1,1 @@
+This is a 2D platformer game inspired by the classic Sonic series. I built it using C++ and the SFML library as part of my university project. The game includes character movement, jumping, collision detection, and animated sprites. Players can control a Sonic-style character to move through different levels while collecting rings and avoiding obstacles.
